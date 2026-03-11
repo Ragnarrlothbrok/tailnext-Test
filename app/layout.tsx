@@ -38,8 +38,8 @@ export default function RootLayout({ children }: LayoutProps) {
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <VWOScript 
-            accountId="735612" 
-            type="ASYNC"
+            accountId="981075" 
+            type="SYNC"
             linkAttributes={{
               crossOrigin: ""
             }}
